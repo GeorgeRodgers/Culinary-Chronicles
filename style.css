@@ -1,0 +1,36 @@
+header {
+    text-align: center;
+    
+}
+
+body{
+    background-color: bisque;
+}
+
+.centered{
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px
+}
+
+ol {
+    display: flex;
+    flex-direction: row;
+    list-style-position: inside;  
+    padding: 0; 
+}
+  
+li {
+    margin-right: 20px; 
+}
+  
+  li img {
+    display: block;
+    margin-top: 5px;
+    width: 196px;  
+    height: auto;
+}
+  
